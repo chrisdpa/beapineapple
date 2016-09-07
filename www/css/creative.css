@@ -11,7 +11,7 @@ body {
 }
 
 body {
-    font-family: Merriweather,'Helvetica Neue',Arial,sans-serif;
+    font-family: Teko,'Helvetica Neue',Arial,sans-serif;
 }
 
 hr {
@@ -52,7 +52,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #f05f40;
+    background-color: #e8cc36;
 }
 
 .bg-dark {
@@ -65,7 +65,7 @@ p {
 }
 
 section {
-    padding: 100px 0;
+    padding: 20px 0;
 }
 
 aside {
